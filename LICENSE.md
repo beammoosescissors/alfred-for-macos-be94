@@ -1,4 +1,4 @@
-
+secure Integration for Alfred for macOS - export to PDF and task automation is the best Alfred for macOS integration, featuring export to PDF and task automation. Safe, efficient,
 
 
 
